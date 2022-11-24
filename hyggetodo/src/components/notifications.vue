@@ -6,6 +6,7 @@
         <th class="w-auto">İçerik</th>
         <th class="w-32">işlem</th>
       </thead>
+      
       <tbody>
         <tr>
           <td class="text-center"><i class="far fa-check"></i></td>
